@@ -11,10 +11,39 @@ header {
 }
 
 /* MAIN  */
-
+/* MAIN TITLE AND PHOTO  */
 .main-title {
     font-size: 60px;
 }
 #booleaners{
     color: rgb(3, 154, 255);
 }
+
+/* LIST AND PARAGRAPH */
+.text{
+    font-size: 22px;
+}
+.evidenced-text{
+    background-color: yellow;
+}
+/* TABLE SIZE AND STYLE  */
+
+table{
+    width: 100%;
+}
+
+th{
+    background-color: rgb(3, 154, 255);
+    color: white;
+}
+
+td{
+    text-align: left;
+    font-size: 18px;
+}
+
+tbody :nth-child(odd) {
+    background-color: lightblue;
+}
+
+/* LAST PARAGRAPH */
