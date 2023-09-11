@@ -42,8 +42,24 @@ td{
     font-size: 18px;
 }
 
-tbody :nth-child(odd) {
+tr:nth-child(odd) {
     background-color: lightblue;
 }
 
-/* LAST PARAGRAPH */
+/* MORE INFORMATION */
+.first-box{
+    width: 260px;
+    height: 180px;
+    background-image: url(../img/monitor.jpg);
+}
+.second-box{
+    width: 260px;
+    height: 180px; 
+    background-image: url(../img/graph.jpg);
+}
+h2{
+    color: grey;
+}
+h3{
+    color: white;
+}
