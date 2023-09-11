@@ -8,5 +8,13 @@ header {
 .logo {
     width: 300px;
     padding-top: 60px;
-    
+}
+
+/* MAIN  */
+
+.main-title {
+    font-size: 60px;
+}
+#booleaners{
+    color: rgb(3, 154, 255);
 }
